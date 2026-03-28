@@ -1,18 +1,18 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: 'https://www.linkedin.com/in/maryam-houshyari'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  url: 'mary.houshyari@gmail.com'
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: github
+  icon: "fab fa-github"
+  url: 'https://github.com/MaryHoushyari'
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
