@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 3
+order: 1
 ---
 
 I am Maryam, a software developer with over five years of experience in the design and maintenance of diverse web applications. I am competent across the full software lifecycle, with a focus on building reliable, user-friendly solutions. I am a team player who values shared goals and enjoys supporting the professional growth of colleagues, and a practical problem-solver who enjoys technical challenges and delivering high-quality, maintainable code. I work effectively in multicultural environments.
