@@ -17,7 +17,7 @@ order: 1
 
 ---
 
-<!-- ## Teacher
+<!-- ## Basic Digital Literacy Instructor
 **United Cultures of Canada Association**, Edmonton, AB, Canada
 *November 2025 – April 2026*
 
