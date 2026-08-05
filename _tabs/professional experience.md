@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Research Assistant
-**University of Alberta**, Edmonton, AB, Canada
+**University of Alberta**, Edmonton, AB, Canada<br>
 *December 2023 – Present*
 
 - Developing a course-specific AI Assistant that acts as a 24/7 teaching assistant, answering student questions grounded in course content.
@@ -18,7 +18,7 @@ order: 1
 ---
 
 <!-- ## Basic Digital Literacy Instructor
-**United Cultures of Canada Association**, Edmonton, AB, Canada
+**United Cultures of Canada Association**, Edmonton, AB, Canada<br>
 *November 2025 – April 2026*
 
 - Organized and conducted classes for over 15 students through Zoom meetings.
@@ -27,7 +27,7 @@ order: 1
 --- -->
 
 ## Software Developer
-**Simon Fraser University**, Vancouver, BC, Canada
+**Simon Fraser University**, Vancouver, BC, Canada<br>
 *April 2025 – April 2026*
 
 - Developed and maintained AWS Lambda functions to support a serverless backend architecture.
@@ -38,7 +38,7 @@ performance.
 ---
 
 ## Back-end Developer
-**Bitpin**, Anzali, Gilan, Iran
+**Bitpin**, Anzali, Gilan, Iran<br>
 *November 2022 – November 2023*
 
 - Developed unit test with the help of patch and mock.
@@ -48,7 +48,7 @@ performance.
 ---
 
 ## Back-end Developer
-**MGH-ERP Systems**, Waterloo, ON, Canada
+**MGH-ERP Systems**, Waterloo, ON, Canada<br>
 *October 2021 – October 2022*
 
 - Executed Graphql query in Django app.
@@ -59,7 +59,7 @@ performance.
 ---
 
 ## Web Developer
-**Maktab Sharif (Coding Bootcamp)**, Tehran, Iran
+**Maktab Sharif (Coding Bootcamp)**, Tehran, Iran<br>
 *March 2021 – September 2021*
 
 - Completed 300 hours of practical courses.

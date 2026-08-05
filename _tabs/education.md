@@ -5,19 +5,19 @@ order: 2
 ---
 
 ## University of Tehran
-Associate's Degree, Electrical Engineering
+Associate's Degree, Electrical Engineering<br>
 *September 2014 – December 2019*
 
 ---
 
 <!-- ## National Organization for Development of Exceptional Talents (Sampad)
-Diploma of Education, Mathematics and Physics
+Diploma of Education, Mathematics and Physics<br>
 *September 2007 – June 2014*
 
 --- -->
 
 ## Young Scholars Club
-Astronomy and Astrophysics
+Astronomy and Astrophysics<br>
 *June 2013 – September 2013*
 
 ## Certifications
