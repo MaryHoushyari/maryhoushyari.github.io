@@ -28,15 +28,13 @@ comments: false
         <li>REST &amp; GraphQL API design</li>
       </ul>
 
-      <div class="d-flex flex-wrap align-items-stretch gap-2 mb-3">
+      <div class="d-flex flex-wrap align-items-stretch gap-2 mb-3" style="column-gap: 0.5rem !important;">
         <a class="btn btn-primary landing-btn" href="{{ '/assets/Maryam-Houshyari-Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
           Download Resume
         </a>
-        <div class="vr opacity-100" style="width: 2px; background-color: currentColor; opacity: .5 !important;"></div>
         <a class="btn btn-outline-primary landing-btn" href="{{ '/professional-experience/' | relative_url }}">
           Professional Experience
         </a>
-        <div class="vr opacity-100" style="width: 2px; background-color: currentColor; opacity: .5 !important;"></div>
         <a class="btn btn-outline-primary landing-btn" href="{{ '/contact/' | relative_url }}">
           Contact Me
         </a>
