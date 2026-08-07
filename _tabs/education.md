@@ -22,11 +22,14 @@ Astronomy and Astrophysics<br>
 
 ## Certifications
 
-- Trustworthy Generative AI
-- AI Agent Developer
-- AI Agents and Agentic AI Architecture in Python
-- AI Agents and Agentic AI with Python & Generative AI
-- Prompt Engineering for ChatGPT
+- [AI Agent Developer](https://www.coursera.org/account/accomplishments/specialization/8BX8L1X6V4J5) <br>*April 2026*
+
+    - AI Agents and Agentic AI with Python & Generative AI
+    - AI Agents and Agentic AI Architecture in Python
+    - OpenAI GPTs: Creating Your Own Custom AI Assistants
+    - Prompt Engineering for ChatGPT
+    - ChatGPT Advanced Data Analysis
+    - Trustworthy Generative AI
 
 ## Honors & Awards
 
