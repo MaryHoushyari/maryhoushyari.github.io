@@ -28,14 +28,16 @@ comments: false
         <li>REST &amp; GraphQL API design</li>
       </ul>
 
-      <div class="d-flex flex-wrap gap-2 mb-3">
+      <div class="d-flex flex-wrap align-items-stretch gap-2 mb-3">
         <a class="btn btn-primary landing-btn" href="{{ '/assets/Maryam-Houshyari-Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
           Download Resume
         </a>
+        <div class="vr"></div>
         <a class="btn btn-outline-primary landing-btn" href="{{ '/professional-experience/' | relative_url }}">
           Professional Experience
         </a>
-        <a class="btn btn-outline-primary landing-btn" href="mailto:mary.houshyari@gmail.com">
+        <div class="vr"></div>
+        <a class="btn btn-outline-primary landing-btn" href="{{ '/contact/' | relative_url }}">
           Contact Me
         </a>
       </div>
